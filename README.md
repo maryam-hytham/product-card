@@ -6,10 +6,10 @@ This is a sleek and responsive product card designed using HTML and CSS, showcas
 
 ## Features
 
--*Responsive Design*: The product card is fully responsive, ensuring a polished appearance on all screen sizes.
--*Product Image*: Displays a high-quality image of the Dell laptop.
--*Product Details*: Includes the laptop's name and price in a clean and professional layout.
--*Call-to-Action Button*: Features a stylish "Add to Cart" button with hover effects to encourage user interaction.
+- *Responsive Design*: The product card is fully responsive, ensuring a polished appearance on all screen sizes.
+- *Product Image*: Displays a high-quality image of the Dell laptop.
+- *Product Details*: Includes the laptop's name and price in a clean and professional layout.
+- *Call-to-Action Button*: Features a stylish "Add to Cart" button with hover effects to encourage user interaction.
 
 ## Technologies Used
 
